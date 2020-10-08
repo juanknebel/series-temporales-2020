@@ -1,0 +1,11 @@
+# Jupyter notebook
+.ipynb_checkpoints
+
+# Python
+*.pyc
+
+# Intellij
+.idea
+
+# VSCode
+.vscode
